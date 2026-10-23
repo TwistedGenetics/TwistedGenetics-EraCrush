@@ -6,7 +6,7 @@ Each machine sets its own native sample rate, bit depth, converter type and outp
 
 ## Download & install
 
-Go to [**Releases**](https://github.com/TwistedGenetics/EraCrush/releases/latest) and download `EraCrush.mk2unit`.
+Go to [**Releases**](https://github.com/TwistedGenetics/TwistedGenetics-EraCrush/releases/latest) and download `EraCrush.mk2unit`.
 
 Needs microKORG 2 firmware **2.0.0 or later** (the version that added logue SDK support).
 
